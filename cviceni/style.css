@@ -81,3 +81,15 @@ h1 {
   color: aliceblue;
   margin: 0;
 }
+
+section img {
+  float: left;
+}
+
+h3 {
+  clear: left;
+}
+
+section {
+  display: flow-root;
+}
